@@ -1,12 +1,21 @@
 {
-  "version": "18.2.1",
-  "notes": "• Во время установки и перезапуска фон остаётся размытым, пока открыто окно обновления.\n\n• После обновления приложение открывается по прежнему пути. Старая версия успевает закрыться, и в Dock не появляется второй экземпляр.",
+  "version": "18.2.2",
+  "notes": "• При обновлениях из версии 18.2.2 и новее закреплённая иконка в Dock сохраняет связь с приложением.",
   "localizedNotes": {
-    "en": "• The background stays blurred during installation and restart while the update dialog is open.\n\n• After an update, the app reopens from the same location. The previous version exits first, so a second instance no longer appears in the Dock.",
-    "de": "• Während der Installation und des Neustarts bleibt der Hintergrund unscharf, solange das Updatefenster geöffnet ist.\n\n• Nach dem Update öffnet sich die App wieder am selben Speicherort. Die vorherige Version wird zuerst beendet, sodass im Dock keine zweite Instanz erscheint.",
-    "es": "• El fondo permanece desenfocado durante la instalación y el reinicio mientras está abierta la ventana de actualización.\n\n• Tras actualizarse, la aplicación vuelve a abrirse desde la misma ubicación. La versión anterior se cierra primero, por lo que ya no aparece una segunda instancia en el Dock."
+    "en": "• When updating from version 18.2.2 or later, the pinned Dock icon stays linked to the app.",
+    "de": "• Bei Updates ab der installierten Version 18.2.2 bleibt das angeheftete Dock-Symbol mit der App verknüpft.",
+    "es": "• Al actualizar desde la versión 18.2.2 o posterior, el icono fijado en el Dock sigue vinculado a la aplicación."
   },
   "previousReleases": [
+    {
+      "version": "18.2.1",
+      "notes": "• Во время установки и перезапуска фон остаётся размытым, пока открыто окно обновления.\n\n• После обновления приложение открывается по прежнему пути. Старая версия успевает закрыться, и в Dock не появляется второй экземпляр.",
+      "localizedNotes": {
+        "en": "• The background stays blurred during installation and restart while the update dialog is open.\n\n• After an update, the app reopens from the same location. The previous version exits first, so a second instance no longer appears in the Dock.",
+        "de": "• Während der Installation und des Neustarts bleibt der Hintergrund unscharf, solange das Updatefenster geöffnet ist.\n\n• Nach dem Update öffnet sich die App wieder am selben Speicherort. Die vorherige Version wird zuerst beendet, sodass im Dock keine zweite Instanz erscheint.",
+        "es": "• El fondo permanece desenfocado durante la instalación y el reinicio mientras está abierta la ventana de actualización.\n\n• Tras actualizarse, la aplicación vuelve a abrirse desde la misma ubicación. La versión anterior se cierra primero, por lo que ya no aparece una segunda instancia en el Dock."
+      }
+    },
     {
       "version": "18.2.0",
       "notes": "• После скачивания и проверки подписи на экране обновления появляется зелёная галочка. Нажмите «Готово», чтобы вернуться в приложение. Установку можно запустить позже.",
@@ -37,8 +46,8 @@
   ],
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/forcespace/server-studio-releases/releases/download/v18.2.1/server.studio-18.2.1-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSXppUDlXRlpLOGdGRWxnQzJPWDZoUjFqaUVQbzFVUmhsRzJNWU5pczFyR1orT2JJQUJZYWg0WmVyUnFCZVhkSXhVYnBVYVJHUVNsWEw5d1QrU3pvK3Y0dEkxRjZCaEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU5NDk3CWZpbGU6c2VydmVyLnN0dWRpby5hcHAudGFyLmd6CXZlcnNpb246MTguMi4xCmdTankwYlJlekhEMVY2TUwrbnJKdmtkSGMxNk0weGs4dUpEZ29JYm0yY0h5eEhnVU9COXpDWG9MWWxrSE5UL2p4V0VzWXBqd3NkMEZVTXBUZFdFcERBPT0K"
+      "url": "https://github.com/forcespace/server-studio-releases/releases/download/v18.2.2/server.studio-18.2.2-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSXppUDlXRlpLOHRUVnVsTS9BTVk5cWM4VlJ6T0Nyd1dzOHhyYTllK09ydkpFM3RIQTFzWmxxWG15Vjd5S2RKV2Q1T3JJRG8zNldWVjhXcEs1Nkt1bmxaLzJ4L1pkSlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYyMDUzCWZpbGU6c2VydmVyLnN0dWRpby5hcHAudGFyLmd6CXZlcnNpb246MTguMi4yClpoYWRoVGpRcWh2a2NRcnlzdDQyZlZDSnQ3dHF5MkxyZTA3MHRYN3RIbWVNTmw0NGxaZThGUWg3cVhBc1VZV2ZYNUtyNW96eEhPd1BIT2pSOG1XR0JRPT0K"
     }
   }
 }
