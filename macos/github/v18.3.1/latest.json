@@ -56,7 +56,7 @@
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/forcespace/server-studio-releases/releases/download/v18.3.1/server.studio-18.3.1-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSXppUDlXRlpLOGhSa0tsMmdJU2VxbVZBdWNHR0dEOW5IbDNWcGVOaTZRYm9OL28xRTZsaHZoNlpyc0FBUnhMRm1SYjRUK2UrMHU1MnVUbTZsSndLTWtzTVpOVXI4eXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzI1OTY1CWZpbGU6c2VydmVyLnN0dWRpby5hcHAudGFyLmd6CXZlcnNpb246MTguMy4xClY1WGVlT0k1RldvN2VoRVQ2ME91Q2hjMnhJdWptU09ielhrMHFFdUg5aWpxbjFlT3VoNFlyUUpMVXRQUkxQNG14cWFxMXhLYk81YzZ0SmJHbzIwTkNnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSXppUDlXRlpLOGxsamJKMkczQWhFbzkzaGR4dFBmMk1yUEpPaXlxL2p1OS9aZjFyQmlpMENOWThtVFlHR001NmR6bENaWDBIbzBWVGhKYVNhTjB0MU5MU0h6N1owL2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzI3NzYwCWZpbGU6c2VydmVyLnN0dWRpby5hcHAudGFyLmd6CXZlcnNpb246MTguMy4xCjVkVFE4MkdtVk1jbllLVmhxS2tRTHVzNXpCV2tmbWtwV0FiaVk5Rll5M3JOS3RBQ0g3L3FKOVhPRElZN1lVSnFyUkZWT0IrTk5aKy9vdEs5NEdFc0R3PT0K"
     }
   }
 }
